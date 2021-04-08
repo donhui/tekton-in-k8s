@@ -1,8 +1,8 @@
-## 让 tekton 在 kubernetes 的安装变简单
+## 让 tekton 在中国大陆安装变简单
 由于 tekton 相关的 docker 镜像在 google 的镜像仓库（gcr.io），一般在国内无法拉取，
 所以将镜像同步到了阿里云镜像仓库。
 
-本项目旨在让 tekton 在 kubernetes 的安装变简单。
+本项目旨在让 tekton 在中国大陆安装变简单。
 
 ## tekton 版本支持
 目前支持的 tekton 版本：
