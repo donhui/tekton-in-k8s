@@ -15,5 +15,5 @@
 
 使用 kubectl 命令安装 tekton：
 ```bash
-kubectl release.yaml
+kubectl apply -f release.yaml
 ```
